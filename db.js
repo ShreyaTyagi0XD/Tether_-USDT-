@@ -17,7 +17,7 @@ const web3 = new Web3('https://rpc.ankr.com/avalanche_fuji-c'); //https://api.av
 const connection = mysql2.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'Tyagi@2001',
+  password: '',
   database: 'transaction_details',
   port: 8090,
 });
